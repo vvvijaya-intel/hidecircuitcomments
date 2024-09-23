@@ -1,2 +1,2 @@
 # hidecircuitcomments
-Do not show comments on circuit
+Avoid having to read comments on Circuit when you have to watch Pat's weekly videos.
